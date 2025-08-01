@@ -12,5 +12,5 @@ This repository contains direct links to my completed fCC projects.
 
 ---
 ## ✅ 2. Magazine Layout  
-[View on GitHub Pages](https://jasonkong-coder.github.io/fcc-magazine-layout/)  
-[Source Code](https://github.com/JasonKong-coder/fcc-magazine-layout)
+[View on GitHub Pages](https://jasonkong-coder.github.io/fcc-design-a-magazine-layout/)  
+[Source Code](https://github.com/JasonKong-coder/fcc-design-a-magazine-layout)
